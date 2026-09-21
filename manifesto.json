@@ -1,5 +1,5 @@
 {
- "versao": 1,
+ "versao": 2,
  "total": 500,
  "figurinhas": [
   {
@@ -3502,5 +3502,6 @@
    "bytes": 187282,
    "sha1": "c72906d546f4"
   }
- ]
+ ],
+ "miniaturas": "thumbs/"
 }
